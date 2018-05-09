@@ -1,0 +1,9 @@
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\bin\Debug\Container.exe.config
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\bin\Debug\Container.exe
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\bin\Debug\Container.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\bin\Debug\Contratcs.dll
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\bin\Debug\Contratcs.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\obj\Debug\ContainerService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\obj\Debug\ContainerService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\obj\Debug\Container.exe
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Container\obj\Debug\Container.pdb

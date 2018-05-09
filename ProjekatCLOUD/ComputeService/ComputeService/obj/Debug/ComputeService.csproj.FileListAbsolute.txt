@@ -1,0 +1,26 @@
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\Projekat - CLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\Contratcs.dll
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\Contratcs.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.pdb
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\Contratcs.dll
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\bin\Debug\Contratcs.pdb
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.csproj.CopyComplete
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\ComputeService\obj\Debug\ComputeService.pdb

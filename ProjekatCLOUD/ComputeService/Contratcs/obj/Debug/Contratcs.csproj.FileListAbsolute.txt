@@ -1,0 +1,12 @@
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\bin\Debug\Contratcs.dll
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\bin\Debug\Contratcs.pdb
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.dll
+C:\Users\Nemanja\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.pdb
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\bin\Debug\Contratcs.dll
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\bin\Debug\Contratcs.pdb
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.dll
+C:\Users\Nina\Desktop\ProjekatCLOUD\ComputeService\Contratcs\obj\Debug\Contratcs.pdb
