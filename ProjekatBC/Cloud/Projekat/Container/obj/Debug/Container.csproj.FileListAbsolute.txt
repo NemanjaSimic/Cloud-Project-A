@@ -1,0 +1,38 @@
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\bin\Debug\Container.exe.config
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\bin\Debug\Container.exe
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\bin\Debug\Container.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\bin\Debug\Contracts.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\bin\Debug\Contracts.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\obj\Debug\Container.exe
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Container\obj\Debug\Container.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\Container\bin\Debug\Container.exe.config
+C:\Users\ervin\Documents\Cloud\Projekat\Container\bin\Debug\Container.exe
+C:\Users\ervin\Documents\Cloud\Projekat\Container\bin\Debug\Container.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\Container\bin\Debug\Contracts.dll
+C:\Users\ervin\Documents\Cloud\Projekat\Container\bin\Debug\Contracts.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\ervin\Documents\Cloud\Projekat\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\Cloud\Projekat\Container\obj\Debug\Container.csproj.CopyComplete
+C:\Users\ervin\Documents\Cloud\Projekat\Container\obj\Debug\Container.exe
+C:\Users\ervin\Documents\Cloud\Projekat\Container\obj\Debug\Container.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\bin\Debug\Container.exe.config
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\bin\Debug\Container.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\bin\Debug\Container.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\obj\Debug\Container.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\obj\Debug\Container.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Container\obj\Debug\Container.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\bin\Debug\Container.exe.config
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\bin\Debug\Container.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\bin\Debug\Container.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\obj\Debug\Container.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\obj\Debug\Container.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Container\obj\Debug\Container.pdb

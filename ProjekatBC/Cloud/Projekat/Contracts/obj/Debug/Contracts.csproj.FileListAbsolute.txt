@@ -1,0 +1,28 @@
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\Contracts\obj\Debug\Contracts.pdb
+D:\Projekat\Contracts\bin\Debug\Contracts.dll
+D:\Projekat\Contracts\bin\Debug\Contracts.pdb
+D:\Projekat\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\Projekat\Contracts\obj\Debug\Contracts.dll
+D:\Projekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\ervin\Documents\Cloud\Projekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\Contracts\obj\Debug\Contracts.pdb
