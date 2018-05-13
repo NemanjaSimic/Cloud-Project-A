@@ -1,0 +1,48 @@
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\bin\Debug\Contracts.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\bin\Debug\Contracts.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\ComputeService\obj\Debug\ComputeService.pdb
+D:\Projekat\ComputeService\bin\Debug\ComputeService.exe.config
+D:\Projekat\ComputeService\bin\Debug\ComputeService.exe
+D:\Projekat\ComputeService\bin\Debug\ComputeService.pdb
+D:\Projekat\ComputeService\bin\Debug\Contracts.dll
+D:\Projekat\ComputeService\bin\Debug\Contracts.pdb
+D:\Projekat\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+D:\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+D:\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CopyComplete
+D:\Projekat\ComputeService\obj\Debug\ComputeService.exe
+D:\Projekat\ComputeService\obj\Debug\ComputeService.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\bin\Debug\Contracts.dll
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\bin\Debug\Contracts.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CopyComplete
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\ervin\Documents\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\ComputeService\obj\Debug\ComputeService.pdb

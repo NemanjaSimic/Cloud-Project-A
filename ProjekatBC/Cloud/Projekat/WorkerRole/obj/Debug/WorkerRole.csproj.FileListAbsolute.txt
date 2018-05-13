@@ -1,0 +1,34 @@
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\bin\Debug\WorkerRole.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\bin\Debug\WorkerRole.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\bin\Debug\Contracts.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\bin\Debug\Contracts.pdb
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\obj\Debug\WorkerRole.csprojResolveAssemblyReference.cache
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\obj\Debug\WorkerRole.dll
+C:\Users\ervin\documents\visual studio 2017\Projects\Projekat\WorkerRole\obj\Debug\WorkerRole.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.dll
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.dll
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.pdb
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csprojResolveAssemblyReference.cache
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CopyComplete
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.dll
+C:\Users\ervin\Documents\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\Ervin\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\bin\Debug\WorkerRole.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\bin\Debug\Contracts.pdb
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.dll
+C:\Users\Nemanja\Desktop\FAKS\3.GODINA\Cloud\ProjekatBC\Cloud\Projekat\WorkerRole\obj\Debug\WorkerRole.pdb
